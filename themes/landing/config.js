@@ -1,11 +1,6 @@
 const CONFIG = {
   LANDING_HEADER_BUTTON: false,
-  //LANDING_HEADER_BUTTON_1_TITLE: ,
-  //LANDING_HEADER_BUTTON_1_URL: ,
-
-  //LANDING_HEADER_BUTTON_2_TITLE: ,
-  //LANDING_HEADER_BUTTON_2_URL: ,
-
+ 
   // 首页大图英雄板块
   LANDING_HERO_TITLE_1: 'NotionNext',
   LANDING_HERO_P_1: '快速搭建独立站、轻松放大品牌价值！',
