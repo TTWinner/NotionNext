@@ -2,6 +2,9 @@ const CONFIG = {
   LANDING_HEADER_BUTTON_1_TITLE: '超級趨勢圖',
   LANDING_HEADER_BUTTON_1_URL: 'https://supertrend.robottrading.com.hk',
 
+  LANDING_HEADER_BUTTON_2_TITLE: 'Robot Trading',
+  LANDING_HEADER_BUTTON_2_URL: 'https://robottrading.com.hk/',
+
 
   // 首页大图英雄板块
   LANDING_HERO_TITLE_1: 'NotionNext',
