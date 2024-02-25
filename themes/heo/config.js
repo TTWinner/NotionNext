@@ -18,7 +18,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '量化分析',
   HEO_HERO_TITLE_2: '超級趨勢圖',
   HEO_HERO_TITLE_3: 'https://supertrend.robottrading.com.hk',
-  HEO_HERO_TITLE_4: '今日小tips',
+  HEO_HERO_TITLE_4: '今日小tips 18-1-2024',
   HEO_HERO_TITLE_5: '市場將會大幅反彈',
   HEO_HERO_TITLE_LINK: 'https://www.facebook.com/RobotTrading.com.hk/posts/pfbid0jX4L9M6J2MER8RVNrYMEh2HZ4JSPHNthnzBi74dBgHKtNCMKEyKK3BNnds3MtNEkl',
 
