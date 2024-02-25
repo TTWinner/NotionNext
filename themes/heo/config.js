@@ -1,12 +1,12 @@
 const CONFIG = {
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2022-04-25', // 建站日期，用于计算网站运行的第几天25
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '歡迎進入量化交易的世界', url: 'https://supertrend.robottrading.com.hk' },
+    { title: '請按這裏進入超級趨勢圖', url: 'https://supertrend.robottrading.com.hk' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -15,16 +15,16 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_1: '量化分析',
+  HEO_HERO_TITLE_2: '超級趨勢圖',
+  HEO_HERO_TITLE_3: 'https://supertrend.robottrading.com.hk',
+  HEO_HERO_TITLE_4: '今日小tips',
+  HEO_HERO_TITLE_5: '市場將會大幅反彈',
+  HEO_HERO_TITLE_LINK: 'https://www.facebook.com/RobotTrading.com.hk/posts/pfbid0jX4L9M6J2MER8RVNrYMEh2HZ4JSPHNthnzBi74dBgHKtNCMKEyKK3BNnds3MtNEkl',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
+  HEO_HERO_CATEGORY_1: { title: '超級趨勢圖', url: 'https://supertrend.robottrading.com.hk' },
+  HEO_HERO_CATEGORY_2: { title: '今日小tips', url: '/tag/今日小tips' },
   HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
@@ -105,10 +105,10 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_TITLE_1: '進入Discord Server 群組',
+  HEO_SOCIAL_CARD_TITLE_2: '加入群組使用超級趨勢圖',
+  HEO_SOCIAL_CARD_TITLE_3: '加入Discord Server',
+  HEO_SOCIAL_CARD_URL: 'https://discord.gg/hpUw8Ac29z',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
