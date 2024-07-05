@@ -19,8 +19,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '超級趨勢圖',
   HEO_HERO_TITLE_3: 'https://supertrend.robottrading.com.hk',
   HEO_HERO_TITLE_4: '今日小tips 1-7-2024',
-  HEO_HERO_TITLE_5: '28-6-2024交易日GEX chart 分析同解讀',
-  HEO_HERO_TITLE_LINK: 'https://www.robottrading.com.hk/article/tips240628',
+  HEO_HERO_TITLE_5: '4-7-2024交易日GEX chart 分析同解讀',
+  HEO_HERO_TITLE_LINK: 'https://www.robottrading.com.hk/article/tips240704',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '超級趨勢圖', url: 'https://supertrend.robottrading.com.hk' },
