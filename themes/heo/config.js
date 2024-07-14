@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '量化分析',
   HEO_HERO_TITLE_2: '超級趨勢圖',
   HEO_HERO_TITLE_3: 'https://supertrend.robottrading.com.hk',
-  HEO_HERO_TITLE_4: '今日小tips 10-7-2024',
-  HEO_HERO_TITLE_5: '10-7-2024交易日GEX chart 分析同解讀',
+  HEO_HERO_TITLE_4: '今日小tips 14-7-2024',
+  HEO_HERO_TITLE_5: '12-7-2024交易日GEX chart 分析同解讀。 Combined GEX charts 18500大阻力位,先行獲利。',
   HEO_HERO_TITLE_LINK: 'https://www.robottrading.com.hk/article/tips240710',
 
   // 英雄区显示三个置顶分类
