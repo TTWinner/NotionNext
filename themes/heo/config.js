@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '量化分析',
   HEO_HERO_TITLE_2: '超級趨勢圖',
   HEO_HERO_TITLE_3: 'https://supertrend.robottrading.com.hk',
-  HEO_HERO_TITLE_4: '今日小tips 26-7-2024',
-  HEO_HERO_TITLE_5: '26-7-2024交易日GEX chart分析 市場進一步下探。',
+  HEO_HERO_TITLE_4: '今日小tips 30-7-2024',
+  HEO_HERO_TITLE_5: '30-7-2024交易日GEX chart分析 結算日的部署。 留意向下突破17000 後， 會有更深的跌幅 。',
   HEO_HERO_TITLE_LINK: 'https://www.robottrading.com.hk/article/tips240726',
 
   // 英雄区显示三个置顶分类
