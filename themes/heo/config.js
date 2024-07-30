@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '歡迎進入量化交易的世界', url: 'https://supertrend.robottrading.com.hk' },
+    { title: '歡迎進入期權分析的世界', url: 'http://supertrend.robottrading.com.hk:8501' },
     { title: '請按這裏進入超級趨勢圖', url: 'https://supertrend.robottrading.com.hk' }
   ],
 
