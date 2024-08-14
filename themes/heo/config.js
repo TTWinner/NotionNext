@@ -19,7 +19,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '超級趨勢圖',
   HEO_HERO_TITLE_3: 'https://supertrend.robottrading.com.hk',
   HEO_HERO_TITLE_4: '今日小tips 6-8-2024',
-  HEO_HERO_TITLE_5: '6-8-2024交易日GEX chart分析 藉著反彈浪做淡 ，目標15700 。',
+  HEO_HERO_TITLE_5: '14-8-2024交易日GEX chart 分析。 正負數GEX wall 有所不同 。',
   HEO_HERO_TITLE_LINK: 'https://www.robottrading.com.hk/article/tips240806',
 
   // 英雄区显示三个置顶分类
