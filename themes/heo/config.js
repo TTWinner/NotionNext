@@ -18,9 +18,9 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '量化分析',
   HEO_HERO_TITLE_2: '超級趨勢圖',
   HEO_HERO_TITLE_3: 'https://supertrend.robottrading.com.hk',
-  HEO_HERO_TITLE_4: '今日小tips 6-9-2024',
-  HEO_HERO_TITLE_5: '5-9-2024交易日GEX chart 分析。 Net GEX由月頭正數已轉為負數',
-  HEO_HERO_TITLE_LINK: 'https://www.robottrading.com.hk/article/tips240906',
+  HEO_HERO_TITLE_4: '今日小tips 13-9-2024',
+  HEO_HERO_TITLE_5: '13-9-2024交易日GEX chart 分析。 下星期二，美國將公佈減息結果，這將是分析恆指期貨和美期發展方向的關鍵時刻。',
+  HEO_HERO_TITLE_LINK: 'https://www.robottrading.com.hk/article/tips240913',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '超級趨勢圖', url: 'https://supertrend.robottrading.com.hk' },
